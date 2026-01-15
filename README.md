@@ -28,7 +28,7 @@ To run the code for this project, you will need:
 
 * Clone the repository:
   
-      git clone https://github.com/yourusername/voice-denoising-matlab.git
+      git clone https://github.com/hirushan083/voice-denoising-matlab.git
 * Prepare Audio: Place your file noisy_recording.wav in the project directory.
 * Execute: Run the MATLAB script to generate time-domain and frequency-domain plots for comparison.
 
