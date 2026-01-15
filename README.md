@@ -33,5 +33,5 @@ To run the code for this project, you will need:
 * Execute: Run the MATLAB script to generate time-domain and frequency-domain plots for comparison.
 
 👤 Author Details
-* Name: K.P.K.H. Jayaweera
+* Name: Kavindu Hirushan Jayaweera
 * GitHub: hirushan083
