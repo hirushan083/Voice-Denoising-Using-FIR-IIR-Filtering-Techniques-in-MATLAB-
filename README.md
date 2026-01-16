@@ -2,7 +2,6 @@
 
 📝 Overview
 This project demonstrates a digital signal processing (DSP) approach to removing background noise from real-world audio recordings. By analyzing the spectral content of a noisy sample, a 4th-order Butterworth bandpass filter was designed to isolate voice frequencies and suppress unwanted noise from sources like fans or environmental hum.
-+4
 
 🚀 Features
 
